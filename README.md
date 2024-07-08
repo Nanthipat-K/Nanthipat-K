@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on senior project
+- 🌱 I’m currently learning git
+- 📫 How to reach me: nanthipat.ko@gmail.com
 <!--
 **Nanthipat-K/Nanthipat-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
